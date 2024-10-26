@@ -1,0 +1,18 @@
+body{
+    background-color:#8338EC;
+
+
+}
+
+h1{
+
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+ul{
+    list-style: none;
+    color: black;
+
+}
