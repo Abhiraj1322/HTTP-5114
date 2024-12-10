@@ -1,15 +1,13 @@
 
 # Markdown Demo
-
-This is an example Markdown document
-make change!
+Hi guys! Abhiraj this side 
 ## Bold and Italics
 this text is  **bold**.
 this text is _italics_
 this  text is **_bold and italics_**.
 ## Lists
-This is an orderred  list:
-1.Item number one 
+Hobbies
+1. Music  
 2.Item number  Two 
 3.item number three
 
